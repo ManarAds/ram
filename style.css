@@ -1,7 +1,7 @@
 h1{
-    color:red;
+    color:hsla(123, 100%, 50%, 0.61);
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(70, 192, 70);
 }
